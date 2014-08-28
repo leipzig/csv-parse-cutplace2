@@ -1,0 +1,4 @@
+,Checks,,,,,
+C,filename must be unique,IsUnique,Filename,,,
+C,MD5 must be unique,IsUnique,MD5,,,
+C,"FIELD7 implies 8,9,10",custom_cutplace_checks.SevenEightNineTen
